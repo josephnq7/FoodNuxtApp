@@ -80,7 +80,7 @@
 				id: this.$route.params.id,
 				itemOptions: '',
 				itemAddons: [],
-				count: 0,
+				count: 1,
 				itemSizeAndCost: [],
 				cartSubmitted: false,
 			};
